@@ -1,9 +1,5 @@
 
-Ask the user if they want to play again.
-Code Example
-python
-Copy
-Edit
+//Ask the user if they want to play again.
 import random
 
 def get_computer_choice():
